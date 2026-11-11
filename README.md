@@ -1,4 +1,4 @@
-# Netflix Team 4 Project
+# Netflix Team 4 Project (Talukder & Michael N)
 
 ## Overview
 This project focuses on Netflix movie data analysis using Python and Jupyter Notebook.
